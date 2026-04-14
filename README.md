@@ -1,7 +1,7 @@
 # welcome-bot
 
 ## install
-``bash 
+```bash 
 bun install
 ```
 ## Run
